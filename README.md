@@ -18,6 +18,6 @@ Run it
 > $ npm run dev
 ```
 
-Then Open the web browser to `http://localhost:8080/`
+Then Open the web browser to `http://localhost:8080/numbers`
 
 Or build it
