@@ -19,7 +19,8 @@ class App extends React.Component {
 				<DevTool/>
 				<NavigationBar/>
 				<div className={styles.appHeading}>
-					<h1>React+Mobx APP Rohan Arihant</h1>
+					<h1>React+Mobx APP</h1>
+					<p>changes made in Alpha Branch</p>
 					{this.props.children}
 				</div>
 
