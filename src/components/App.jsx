@@ -20,7 +20,6 @@ class App extends React.Component {
 				<NavigationBar/>
 				<div className={styles.appHeading}>
 					<h1>React+Mobx APP Rohan Arihant</h1>
-					<p>Stash Two</p>
 					{this.props.children}
 				</div>
 
