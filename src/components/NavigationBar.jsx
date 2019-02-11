@@ -8,6 +8,7 @@ class NavigationBar extends React.Component {
 	render() {
 		return (
 			<nav className={styles.headernav}>
+			
 				<div className={styles.container}>
 				
 					<div className={styles.menu_list}>

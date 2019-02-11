@@ -6,6 +6,7 @@ import {navbar} from 'bootstrap-css'
 class NavItem extends Component {
   render () {
     const { router } = this.props
+    
     const { index, to, children, ...props } = this.props
 
     const LinkComponent = index ?  IndexLink : Link

@@ -7,6 +7,7 @@
   padding-left: 40px;
 }
 
+
 .header {
   composes: navbar-header from "bootstrap-css/lib/navbar.css";
 }
